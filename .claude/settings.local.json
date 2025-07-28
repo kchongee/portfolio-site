@@ -15,7 +15,8 @@
       "Bash(npm uninstall:*)",
       "Bash(rm:*)",
       "Bash(npm start)",
-      "Bash(timeout 5 npm run dev)"
+      "Bash(timeout 5 npm run dev)",
+      "Bash(npm run dev:*)"
     ],
     "deny": []
   }
